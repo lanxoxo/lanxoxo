@@ -1,8 +1,8 @@
 ## 👋 Hello Everyone, I’m @lanxoxo
 # 
-🔭 I recently worked in web and software development\
-👀 I’m interested in programming (Java, Python, C, C++) and crypthography\
-🌱 I’m currently studying Cyber Security & Privacy\
+🔭 I currently work in software and web development\
+👀 I’m interested in programming (Java, Python, C, C++, Rust) and crypthography\
+🌱 I’m currently studying Cyber Security\
 💞️ I’m looking to collaborate on scientific research and papers
 
 <!---
